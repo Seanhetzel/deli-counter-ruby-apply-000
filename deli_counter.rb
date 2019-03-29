@@ -21,7 +21,8 @@ def take_a_number(katz_deli, new_customer)
   katz_deli << new_customer
 end
 
-# puts customer that is being served and removes that customer element from front of katz_deli array 
+# puts customer that is being served and removes that customer element from
+# front of katz_deli array 
 def now_serving(katz_deli)
   if katz_deli.none?
     puts "There is nobody waiting to be served!"
