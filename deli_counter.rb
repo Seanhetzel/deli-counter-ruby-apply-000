@@ -31,3 +31,10 @@ def now_serving(katz_deli)
     katz_deli.shift
   end 
 end
+
+#katz_deli = ["Sean", "Jack", "Kevin"]
+#line(katz_deli)
+#puts "please enter your name:"
+#new_customer = gets.strip
+#take_a_number(katz_deli, new_customer)
+#now_serving(katz_deli)
