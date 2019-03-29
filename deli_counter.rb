@@ -1,4 +1,5 @@
-# puts string of each customer in katz_deli array with their position or puts line is empty if it is 
+# puts string of each customer in katz_deli array with their position or puts
+# line is empty if it is
 def line(katz_deli)
   current_line = "" 
   position = 1
