@@ -32,6 +32,15 @@ def now_serving(katz_deli)
   end 
 end
 
+
+
+
+
+
+
+
+
+
 #katz_deli = ["Sean", "Jack", "Kevin"]
 #line(katz_deli)
 #puts "please enter your name:"
