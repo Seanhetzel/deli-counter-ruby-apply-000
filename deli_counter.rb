@@ -14,7 +14,8 @@ def line(katz_deli)
   end
 end
 
-# adds new_customer element to end of katz_deli array and puts string Welcoming them 
+# adds new_customer element to end of katz_deli array and puts string Welcoming
+# them
 def take_a_number(katz_deli, new_customer)
   puts "Welcome, #{new_customer}. You are number #{katz_deli.length + 1} in line."
   katz_deli << new_customer
